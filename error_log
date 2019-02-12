@@ -1,0 +1,1 @@
+[07-Feb-2019 14:01:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home2/zesad/public_html/vendor/magento/zendframework1/library/Zend/Db/Statement/Pdo.php on line 291

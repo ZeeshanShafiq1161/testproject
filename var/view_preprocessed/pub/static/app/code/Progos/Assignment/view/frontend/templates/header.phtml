@@ -1,0 +1,1 @@
+<?php $customerId = $block->getId(); $pointsCol = $block->totalPoints($customerId); $points = $pointsCol->getData(); ?> <?php if ($customerId) { ?> <li>Your Current Points: <?= $points[0]['points'] ?></li> <?php } ?> ?>
